@@ -1,6 +1,6 @@
 # **星穹鐵道BOT  帕姆醬**
 
-## 開發人員:
+<font color=#191970> 開發人員:</font>
 >  @OolongTeaOWO
 
 ## 使用的第三方套件
