@@ -1,11 +1,11 @@
 # **星穹鐵道BOT  帕姆醬**
 
 ## 開發人員:
-@OolongTeaOWO
+>  @OolongTeaOWO
 
 ## 使用的第三方套件
-easy_pil
-dotenv
+* easy_pil
+* dotenv
 
 ## 使用的程式語言
 Python
