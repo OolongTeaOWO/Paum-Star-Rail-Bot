@@ -3,7 +3,9 @@
 <br>
 
 ## 開發人員:
-***[@oolontea](https://github.com/OolongTeaOWO)***
+前端及資料庫: ***[@TommcyOWO](https://github.com/TommcyOWO)***
+<br>
+BOT開發: ***[@oolontea](https://github.com/OolongTeaOWO)***
 <br>
 
 使用的第三方套件
