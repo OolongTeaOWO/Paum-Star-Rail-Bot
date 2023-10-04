@@ -2,7 +2,7 @@
 ===  
 <br>
 
-## 開發人員:
+## 開發成員:
 前端及資料庫: ***[@TommcyOWO](https://github.com/TommcyOWO)***
 <br>
 BOT開發: ***[@oolontea](https://github.com/OolongTeaOWO)***
